@@ -1,16 +1,86 @@
-## Hi there 👋
+# Hi 💛, I'm Thúlio 🧑‍💻
 
-<!--
-**ThulioASB/ThulioASB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 From Brazil to the 🌎
 
-Here are some ideas to get you started:
+![Profile Views](https://komarev.com/ghpvc/?username=seu-usuario&color=purple)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Connect with me 🤝
+
+<p align="left">
+  <a href="SUA_URL_DO_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="SUA_URL_DO_TWITTER" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="SUA_URL_DO_INSTAGRAM" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical" alt="Most Used Languages" width="48%" />
+</p>
+
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+
+---
+
+## 🔧 Technologies & Tools
+
+<details>
+  <summary><b>Languages</b></summary>
+  <br />
+  • JavaScript, Python, C++, Java, etc.
+</details>
+
+<details>
+  <summary><b>Frameworks</b></summary>
+  <br />
+  • React, Node.js, Spring Boot, etc.
+</details>
+
+<details>
+  <summary><b>Frontend</b></summary>
+  <br />
+  • HTML, CSS, Tailwind CSS, etc.
+</details>
+
+<details>
+  <summary><b>Database</b></summary>
+  <br />
+  • PostgreSQL, MySQL, MongoDB, etc.
+</details>
+
+<details>
+  <summary><b>Software Development</b></summary>
+  <br />
+  • OOP, Data Structures, Algorithms
+</details>
+
+<details>
+  <summary><b>SDLC</b></summary>
+  <br />
+  • Agile, Scrum, Kanban
+</details>
+
+<details>
+  <summary><b>Version Control & Deploy</b></summary>
+  <br />
+  • Git, GitHub, Netlify, Vercel
+</details>
+
+<details>
+  <summary><b>Office</b></summary>
+  <br />
+  • Microsoft Office, Google Workspace
+</details>
+
+---
+
+## 📦 My Projects
+
+*I already Pinned Down for you sire!*
+
+<p align="center">
+  <img src="https://gifdb.com/images/branded/high/cr7-pointing-down-n4day0mus0ifipwa.gif" alt="Project GIF" width="500px" />
+</p>
