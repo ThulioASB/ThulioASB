@@ -16,7 +16,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=ThulioASB&show_icons=true&theme=radical" alt="GitHub Stats" width="70%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=ThulioASB&show_icons=true&theme=radical" alt="GitHub Stats" width="52%" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ThulioASB&layout=compact&theme=radical" alt="Most Used Languages" width="48%" />
 </p>
 
