@@ -15,16 +15,10 @@
 
 ---
 
-<table border="0">
-  <tr>
-    <td width="50%">
-      <img src="https://github-stats-extended.vercel.app/api?username=ThulioASB&show_icons=true&theme=radical" alt="GitHub Stats" width="100%" />
-    </td>
-    <td width="50%">
-      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ThulioASB&layout=compact&theme=radical" alt="Most Used Languages" width="100%" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=ThulioASB&show_icons=true&theme=radical" alt="GitHub Stats" width="70%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ThulioASB&layout=compact&theme=radical" alt="Most Used Languages" width="48%" />
+</p>
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
