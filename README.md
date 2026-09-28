@@ -16,11 +16,11 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThulioASB&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThulioASB&layout=compact&theme=radical" alt="Most Used Languages" width="48%" />
+  <img src="https://github-readme-stats.xyz/api?username=ThulioASB&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.xyz/api/top-langs/?username=ThulioASB&layout=compact&theme=radical" alt="Most Used Languages" width="48%" />
 </p>
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*(https://github.com/anuraghazra/github-readme-stats)*
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
 ---
 
@@ -96,6 +96,7 @@
   <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_Powerpoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" />
 </details>
+
 ---
 
 ## 📦 My Projects
@@ -103,5 +104,5 @@
 *I already Pinned Down for you sire!*
 
 <p align="center">
-  <img src="https://gifdb.com/images/branded/high/cr7-pointing-down-n4day0mus0ifipwa.gif" alt="Project GIF" width="500px" />
+  <img src="https://media.giphy.com/media/r1fGy343acE3v4521q/giphy.gif" alt="CR7 Pointing Down" width="450px" />
 </p>
