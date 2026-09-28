@@ -2,7 +2,7 @@
 
 📍 From Brazil to the 🌎
 
-![Profile Views](https://komarev.com/ghpvc/?ThulioASB&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=ThulioASB&color=blue)
 
 ---
 
@@ -16,11 +16,11 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?ThulioASB&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?ThulioASB&layout=compact&theme=radical" alt="Most Used Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ThulioASB&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThulioASB&layout=compact&theme=radical" alt="Most Used Languages" width="48%" />
 </p>
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*(https://github.com/anuraghazra/github-readme-stats)*
 
 ---
 
