@@ -103,5 +103,5 @@
 *I already Pinned Down for you sire!*
 
 <p align="center">
-  <img src="https://i.giphy.com/media/r1fGy343acE3v4521q/giphy.gif" alt="CR7 Pointing Down" width="450px" />
+  <img src="https://i.giphy.com/r1fGy343acE3v4521q.gif" alt="CR7 Pointing Down" width="450px" />
 </p>
