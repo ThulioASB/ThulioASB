@@ -18,10 +18,10 @@
 <table border="0">
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=ThulioASB&theme=synthwave&show_icons=true&hide_border=false" alt="Thúlio's GitHub Stats" width="100%" />
+      <img src="https://github-stats-extended.vercel.app/api?username=ThulioASB&show_icons=true&theme=radical" alt="GitHub Stats" width="100%" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThulioASB&theme=synthwave&hide_border=false" alt="Most Used Languages" width="100%" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ThulioASB&layout=compact&theme=radical" alt="Most Used Languages" width="100%" />
     </td>
   </tr>
 </table>
