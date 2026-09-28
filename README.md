@@ -16,8 +16,8 @@
 ---
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=ThulioASB&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ThulioASB&layout=compact&theme=radical" alt="Most Used Languages" width="48%" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ThulioASB&theme=synthwave&show_icons=true&hide_border=false" alt="Thúlio's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThulioASB&theme=synthwave&layout=compact&hide_border=false" alt="Most Used Languages" />
 </p>
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
